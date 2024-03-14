@@ -16,6 +16,6 @@
 ▶︎ PORTFOLIO
 ---
 
-PLease visit : https://aisimonetta.github.io/portfolio-react/
+Please visit : https://aisimonetta.github.io/portfolio-react/
 
 
