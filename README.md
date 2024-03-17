@@ -16,7 +16,7 @@
 ▶︎ PORTFOLIO
 ---
 
-Please visit : **[MyPortfolio]([https://eff.org](https://aisimonetta.github.io/portfolio-react/))**.
+Please visit : https://aisimonetta.github.io/portfolio-react/
 
 ▶︎ CONTACT
 ---
