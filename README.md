@@ -16,6 +16,10 @@
 ▶︎ PORTFOLIO
 ---
 
-Please visit : https://aisimonetta.github.io/portfolio-react/
+Please visit : **[MyPortfolio]([https://eff.org](https://aisimonetta.github.io/portfolio-react/))**.
+
+▶︎ CONTACT
+---
+www.linkedin.com/in/alejandrasimonetta
 
 
