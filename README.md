@@ -1,7 +1,7 @@
 ▶︎ Hi there 👋
 ---
 
-I'm Ale. I have a background in Footwear Design, and I am now transitioning into the technology industry. I am a dedicated and adaptable individual with a keen eye for detail, finding fulfillment in every aspect of the development process. Driven by a thirst for knowledge, my journey into development started with inspiration from a family member, leading me to invest time in online courses and enroll at _nology to enhance my software engineering skills. As a developer, I appreciate collaboration in both small and large teams, finding joy in working closely with teammates to achieve shared goals. Actively committed to continuous learning, I am excited to integrate my design background and embrace new challenges and learning opportunities in the tech world.
+I'm Ale. I have a background in Footwear Design, and I am now transitioning into the technology industry. I am a dedicated and adaptable individual with a keen eye for detail, finding fulfillment in every aspect of the development process. Driven by a thirst for knowledge, my journey into development started with inspiration from a family member, leading me to invest time in online courses and enroll at _nology to enhance my software engineering skills. Actively committed to continuous learning, I am excited to integrate my design background and embrace new challenges and learning opportunities in the tech world.
 
 ▶︎ SKILLS
 ---
