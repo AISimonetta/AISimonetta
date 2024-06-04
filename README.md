@@ -19,6 +19,11 @@ I'm Ale. I have a background in Footwear Design, and I am now transitioning into
 
 Please visit : https://aisimonetta.github.io/portfolio-react/
 
+▶︎ LAST UPDATE / 04-06-2024
+---
+
+I am completing the Google UX Design Professional Certificate at Coursera.
+
 ▶︎ CONTACT
 ---
 
